@@ -1,6 +1,6 @@
 # HƯỚNG DẪN SỬ DỤNG PHẦN MỀM ZAUTOCAPCUT
 **Dành cho nhà sáng tạo nội dung & biên tập video**
-
+**Giá rẻ**
 ---
 
 ## 🌟 1. GIỚI THIỆU
