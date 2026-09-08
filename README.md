@@ -1,6 +1,6 @@
 # HƯỚNG DẪN SỬ DỤNG PHẦN MỀM ZAUTOCAPCUT
 **Dành cho nhà sáng tạo nội dung & biên tập video**
-**Giá rẻ**
+
 ---
 
 ## 🌟 1. GIỚI THIỆU
@@ -203,6 +203,9 @@ Nếu bạn có những bức ảnh chất lượng thấp, ảnh mờ, vỡ h�
 > [!TIP]
 > **2. Mở CapCut lên là có sẵn dự án:**
 > Tất cả các video sau khi tạo xong đều tự động xuất hiện ở vị trí đầu tiên trong danh sách dự án gần đây của CapCut Desktop.
+
+> [!NOTE]
+> **Công cụ Xóa Watermark độc lập:** Nếu bạn cần xóa watermark chuyên biệt cho hàng loạt ảnh/video độc lập không qua CapCut, vui lòng tham khảo tài liệu [HUONG_DAN_ZWATERMARK.md](file:///d:/ytb/tools/my-auto-capcut/myautocapcut/HUONG_DAN_ZWATERMARK.md) hoặc chạy `python app_watermark.py`.
 
 ---
 
