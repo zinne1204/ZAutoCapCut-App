@@ -2,6 +2,7 @@
 **Dành cho nhà sáng tạo nội dung & biên tập video**
 
 ---
+## Nhóm hỗ trợ: https://zalo.me/g/ugkjci6pltlb9tlsvg6f
 
 ## 🌟 1. GIỚI THIỆU
 **ZAutoCapCut** là công cụ giúp bạn tự động dựng các video CapCut hoàn chỉnh chỉ trong vài giây. Bạn không cần phải kéo thả từng bức ảnh, canh chỉnh từng câu phụ đề hay đặt hiệu ứng thủ công nữa.
